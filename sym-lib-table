@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name GasSensor)(type Legacy)(uri U:/Documents/5ISS/MOSH/Smart_Project/GasSensor.lib)(options "")(descr ""))
+)
